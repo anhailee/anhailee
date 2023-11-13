@@ -1,4 +1,24 @@
-### Hi there 👋
+### MY QUOTES
+
+Behind every number is a story
+
+### SKILL:
+- Excel
+- SQL
+- Power BI
+- Python
+
+### PROJECTS:
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **anhailee/anhailee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
