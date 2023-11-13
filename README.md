@@ -1,13 +1,14 @@
 ### MY QUOTES
 
-Behind every number is a story
+Behind every number is a story 
 
+*** 
 ### SKILL:
 - Excel
 - SQL
 - Power BI
 - Python
-
+***
 ### PROJECTS:
 
 
